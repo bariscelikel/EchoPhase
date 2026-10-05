@@ -1,4 +1,4 @@
-# ECHO SHIFT
+# ECHO PHASE
 
 ### Temporal Echo Research Facility
 
@@ -8,7 +8,7 @@
   <img src="Screenshots/Gameplay_02.png" width="32%">
 </p>
 
-ECHO SHIFT is a 3D puzzle game developed with Unity.
+ECHO PHASE is a 3D puzzle game developed with Unity.
 
 The main mechanic allows the player to record their previous actions and create a temporal echo that replays those actions. The player must use their echo to interact with switches, solve environmental puzzles, and reach the exit.
 
@@ -53,4 +53,4 @@ The main mechanic allows the player to record their previous actions and create 
 
 ---
 
-*ECHO SHIFT — Temporal Echo Research Facility*
+*ECHO PHASE — Temporal Echo Research Facility*
